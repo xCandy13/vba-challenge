@@ -1,3 +1,3 @@
 # vba-challenge
 ## VBA file
-Module2Challenge.vbs file is included.
+Updated Module2Challenge.vbs on Nov 4th at 12:15AM
